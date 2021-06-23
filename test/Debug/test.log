@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\baile\source\repos\test\test\Source1.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\baile\source\repos\test\test\Source1.cpp(14,7): warning C4101: 'statement': unreferenced local variable
+  test.vcxproj -> C:\Users\baile\source\repos\test\Debug\test.exe
